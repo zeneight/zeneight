@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zeneight
-- 👀 I’m interested in neneng
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning mobile development
 - 📫 How to reach me -> t.me/zeneight
 
