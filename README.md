@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zeneight
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning mobile development
+- 👋 Hi, I’m @zeneight you could call me Agung/Degung in RL
+- 👀 I’m interested in learning a new thing~
+- 🌱 I’m currently learning mobile development (flutter)
 - 📫 How to reach me -> <a target="_blank" href="https://t.me/zeneight">t.me/zeneight</a>
 
 <!---
